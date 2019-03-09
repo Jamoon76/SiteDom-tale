@@ -1,0 +1,59 @@
+header em
+{
+	font-family:'Century','Batnage','Courier New';
+}
+p
+{
+	font-weight:bolder;
+	text-transform:uppercase;
+	text-align: center;
+    color: darkred; 
+    font-size:200%;
+    float:center;
+    background-color: red;
+    color: white;
+    margin-left: 10px; 
+
+}
+h1 strong
+{
+	font-size:250%;
+    color: red;
+    background-color: white
+}
+
+body
+{
+    
+	color:darkblue;
+	background:darkgray;
+
+}
+ ul li
+{
+	margin-left: 10px;
+	font-weight: bolder;
+	text-transform:uppercase;
+	text-decoration: none;
+	padding: 25px;
+	float: left;
+	display: inline-block;
+	background-color: white;	
+}
+
+a img
+{
+
+
+}
+footer{
+	
+}
+
+ nav h3
+{
+ 	padding: 25px;
+ 	background-color: white;
+    display: inline-block;
+
+}
